@@ -41,7 +41,7 @@ gem 'cul_hydra', '~> 1.7.5'
 gem 'active_fedora_relsint', :git => 'https://github.com/cul/active_fedora_relsint.git', :branch => 'master'
 
 # Use imogen for generating images
-gem 'imogen', '0.1.7'
+gem 'imogen', '0.1.9'
 #gem 'imogen', :path => '../imogen'
 
 # Use best type for mime/dc lookups
